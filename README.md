@@ -7,3 +7,6 @@ Curated list of example of various concepts and paradigms written in go programm
 
 - Greet Users
     - Asks the user for their name and prints `Hello ${user}`
+
+- Simple Caclculator
+    - Ask the user for two numbers and perform the four basic math opperations (+, -, *, /) on them
