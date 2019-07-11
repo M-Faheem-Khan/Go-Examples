@@ -10,3 +10,6 @@ Curated list of example of various concepts and paradigms written in go programm
 
 - Simple Caclculator
     - Ask the user for two numbers and perform the four basic math opperations (+, -, *, /) on them
+
+- Fahrenheit to Celsius Converter
+    - Asks the user for the temprature in Fahrenheit and prints to the screen the Celsius converted temprature
