@@ -16,5 +16,5 @@ Curated list of example of various concepts and paradigms written in go programm
 
 # Directory Structure
 |---Directory Name  
-    |---bin (Contains compiled binaries)  
-    |---src (Contains source code)  
+      |---bin (Contains compiled binaries)  
+      |---src (Contains source code)  
