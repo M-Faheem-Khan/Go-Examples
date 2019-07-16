@@ -16,15 +16,15 @@ func main() {
 	// printing the about program line
 	fmt.Println("Simple Implementation of Binary Sort")
 	// defining array
-	var sort_array [10]int
-	// populating sort_array with random number
+	var sortArray [10]int
+	// populating sortArray with random number
 	for i := 0; i < 10; i++ {
-		sort_array[i] = rand.Intn(100)
+		sortArray[i] = rand.Intn(100)
 	}
 	// Printing the array values
-	fmt.Println(sort_array)
+	fmt.Println(sortArray)
 	// sorting array
-	binarySort(sort_array)
+	binarySort(sortArray)
 }
 
 // this function sort the array
