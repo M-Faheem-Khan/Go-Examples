@@ -14,6 +14,9 @@ Curated list of example of various concepts and paradigms written in go programm
 - Fahrenheit to Celsius Converter
     - Asks the user for the temprature in Fahrenheit and prints to the screen the Celsius converted temprature
 
+- Factorial
+    - Asks the user for a number to create a Factorial for the given number
+
 # Directory Structure
 |---Directory Name  
 &nbsp;&nbsp;&nbsp;&nbsp; |---bin (Contains compiled binaries)  
