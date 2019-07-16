@@ -34,8 +34,8 @@ func binarySort(arr [10]int) {
 		// second loop to go through all indexes in array
 		for l := 0; l < (len(arr) - 1); l++ {
 			// temp variables
-			var a int = arr[l]
-			var b int = arr[l+1]
+			var a = arr[l]
+			var b = arr[l+1]
 			// switching index places
 			if a > b {
 				arr[l] = b
