@@ -17,6 +17,9 @@ Curated list of example of various concepts and paradigms written in go programm
 - Factorial
     - Asks the user for a number to create a Factorial for the given number
 
+- Binary Sort
+    - Implementation of Binary Sort 
+
 # Directory Structure
 |---Directory Name  
 &nbsp;&nbsp;&nbsp;&nbsp; |---bin (Contains compiled binaries)  
