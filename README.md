@@ -20,6 +20,10 @@ Curated list of example of various concepts and paradigms written in go programm
 - Binary Sort
     - Implementation of Binary Sort 
 
+- Power Of Three Validator
+    - Validates if a given number is a power of three
+
+
 # Directory Structure
 |---Directory Name  
 &nbsp;&nbsp;&nbsp;&nbsp; |---bin (Contains compiled binaries)  
