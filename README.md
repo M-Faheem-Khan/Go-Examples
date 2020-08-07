@@ -1,5 +1,5 @@
 # Go-Examples
-Curated list of example of various concepts and paradigms written in go programming language
+Curated list of example of various programs written in go programming language
 
 ### Examples
 - Hello World
