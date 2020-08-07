@@ -26,6 +26,10 @@ Curated list of example of various programs written in go programming language
 - PRNG - Pseudo Random Number Generators  
     - Linear Congruential Generator  
         - Generates random number sequence using Linear Congruential Generator  
+  
+- Bubble Sort
+  - Implementation of Bubble Sort 
+
 
 # Directory Structure
 |---Directory Name  
