@@ -23,6 +23,9 @@ Curated list of example of various concepts and paradigms written in go programm
 - Power Of Three Validator
     - Validates if a given number is a power of three
 
+- PRNG - Pseudo Random Number Generators  
+    - Linear Congruential Generator  
+        - Generates random number sequence using Linear Congruential Generator  
 
 # Directory Structure
 |---Directory Name  
