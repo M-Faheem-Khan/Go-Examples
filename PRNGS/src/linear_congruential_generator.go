@@ -39,10 +39,10 @@ func main() {
 
 // Read integer from cli
 func readInteger(prompt string) int {
-	reader := bufio.NewReader(os.Stdin)      // read from stdin
-	fmt.Printf("%s", prompt)                 // printin g
-	userInput, _ := reader.ReadString('\n')  // read until '\n'
-	userInput = userInput[:len(userInput)-2] // removing '\r\n'
-	userInputInteger, _ := strconv.Atoi(userInput)
-	return userInputInteger
+	reader := bufio.NewReader(os.Stdin)            // read from stdin
+	fmt.Printf("%s", prompt)                       // printin g
+	userInput, _ := reader.ReadString('\n')        // read until '\n'
+	userInput = userInput[:len(userInput)-2]       // removing '\r\n'
+	userInputInteger, _ := strconv.Atoi(userInput) // casting from string to integer
+	return userInputInteger                        // returning integer
 }
